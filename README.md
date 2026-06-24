@@ -1,4 +1,4 @@
-# Practice Repository
+There are some changes by Mudit Chaudhary# Practice Repository
 
 This repository is used for learning:----
 
@@ -11,6 +11,6 @@ This repository is used for learning:----
 
 Students are encouraged to improve documentation and submit Pull Requests.
 
-## Learning Resources
+There are some changes## Learning Resources
 
 See the files inside the repository for practice activities.
